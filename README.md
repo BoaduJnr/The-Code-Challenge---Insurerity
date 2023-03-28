@@ -8,6 +8,7 @@ Backend Software Engineer Intern Assessment
 When you search for "insurerity.com" in your browser, the browser sends a request to a domain name system (DNS) server to translate the domain name "insurerity.com" into an IP address. Once the IP address is obtained, the browser sends a request to the server associated with that IP address for the website's content. The server then responds with the website's contents such as HTML, CSS Javascript code and other assets, which the browser uses to render the website and display it to the user.
 
 **2. What are some of the best practices you know and why do you use them?**
+
 Some of the best practices that I follow while working on various tasks include:
 
 ==Proper Planning==: 
