@@ -30,9 +30,11 @@ Continuous learning is essential in staying updated with the latest trends and t
 Code reviews are essential to ensure that the code is of high quality and meets the project requirements.
 
 ==Modularity==
+
 Modularity is the practice of breaking down code into smaller, manageable components that can be easily maintained and updated.
 
 ==Code Refactoring==
+
 Code refactoring is the process of restructuring existing code without changing its functionality. It helps to make the code more maintainable and extensible.
 
 **3. Write a function for adding two numbers**
