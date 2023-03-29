@@ -11,7 +11,7 @@ When you search for "insurerity.com" in your browser, the browser sends a reques
 
 Some of the best practices that I follow while working on various tasks include:
 
-==Proper Planning==: 
+==Proper Planning==
 
 Planning helps in identifying the goals, objectives, and tasks that need to be accomplished. By defining clear objectives and tasks, one can easily track their progress and achieve their goals.
 
