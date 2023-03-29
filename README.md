@@ -24,9 +24,11 @@ Time management is essential in completing tasks within a specified time frame. 
 Effective communication is key in ensuring that everyone is on the same page. By communicating clearly and concisely, one can easily avoid misunderstandings and ensure that everyone is aware of their roles and responsibilities.
 
 ==Continuous Learning==
+
 Continuous learning is essential in staying updated with the latest trends and technology. It helps in acquiring new skills and knowledge, which is vital in career growth and development.
 
 ==Code Reviews==
+
 Code reviews are essential to ensure that the code is of high quality and meets the project requirements.
 
 ==Modularity==
